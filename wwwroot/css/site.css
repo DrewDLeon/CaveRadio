@@ -19,4 +19,14 @@ html {
 
 body {
   margin-bottom: 60px;
+  background: linear-gradient(to right, #051937, #004d7a); /* Cambia estos colores según tus preferencias */
+  color: white;
+}
+
+/* Agregamos estilos adicionales para centrar el contenido y ajustar el espaciado */
+.song-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Esto asegura que el contenido esté centrado verticalmente */
 }
