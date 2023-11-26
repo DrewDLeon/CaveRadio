@@ -1,7 +1,14 @@
+using CaveRadio;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<ApplicationDBContext> (
+    opc => opc.UseNpgsql("name=MiConeccionBD")
+);
 
 var app = builder.Build();
 
