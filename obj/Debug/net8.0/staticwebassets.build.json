@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1q1OaVINZypiVyrphVcR62J/VaW9SmmESF/FI9D/gsI=",
+  "Hash": "CSW7ozCE6UtJtR4poju+voRHNHPukesnYSf4GdhAiss=",
   "Source": "CaveRadio",
   "BasePath": "_content/CaveRadio",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\logo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Andres\\Desktop\\Code\\UN\\7th T\\CaveRadio\\CaveRadio\\wwwroot\\img\\logo2.png",
+      "SourceId": "CaveRadio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Andres\\Desktop\\Code\\UN\\7th T\\CaveRadio\\CaveRadio\\wwwroot\\",
+      "BasePath": "_content/CaveRadio",
+      "RelativePath": "img/logo2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo2.png"
     },
     {
       "Identity": "C:\\Users\\Andres\\Desktop\\Code\\UN\\7th T\\CaveRadio\\CaveRadio\\wwwroot\\js\\site.js",

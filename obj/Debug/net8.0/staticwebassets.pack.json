@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\img\\logo.jpg"
     },
     {
+      "Id": "C:\\Users\\Andres\\Desktop\\Code\\UN\\7th T\\CaveRadio\\CaveRadio\\wwwroot\\img\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\logo2.png"
+    },
+    {
       "Id": "C:\\Users\\Andres\\Desktop\\Code\\UN\\7th T\\CaveRadio\\CaveRadio\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -23,10 +23,14 @@ body {
   color: white;
 }
 
+header, footer{
+  background: linear-gradient(to right, #041228, #013e62);
+}
+
 /* Agregamos estilos adicionales para centrar el contenido y ajustar el espaciado */
 .song-info {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh; /* Esto asegura que el contenido esté centrado verticalmente */
+  height: 80vh; /* Esto asegura que el contenido esté centrado verticalmente */
 }
