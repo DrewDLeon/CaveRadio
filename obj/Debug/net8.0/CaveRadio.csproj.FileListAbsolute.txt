@@ -134,4 +134,7 @@ C:\UN\OOP2\CaveRadio\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.
 C:\UN\OOP2\CaveRadio\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\UN\OOP2\CaveRadio\obj\Debug\net8.0\CaveRadio.csproj.AssemblyReference.cache
 C:\UN\OOP2\CaveRadio\obj\Debug\net8.0\CaveRadio.csproj.CopyComplete
+<<<<<<< HEAD
 C:\Users\Andres\Desktop\Code\UN\7th T\CaveRadio\CaveRadio\obj\Debug\net8.0\CaveRadio.csproj.AssemblyReference.cache
+=======
+>>>>>>> 63fe82f5ad0e4d04de53e6952613eb88fe3c2ec3
