@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaveRadio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca2a23859050e4ad847f5cf11abbbf25abc09d8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08777e2d4986f460d7c859f0c70884f56f6737e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaveRadio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaveRadio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
